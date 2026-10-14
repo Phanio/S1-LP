@@ -1,0 +1,18 @@
+# Dependances du cours "Developpement Python pour l'apprentissage"
+# MS IA de confiance - Mise a niveau
+#
+# Installation :
+#   python -m venv .venv
+#   .venv\Scripts\activate          (Windows)
+#   source .venv/bin/activate       (macOS / Linux)
+#   pip install -r requirements.txt
+
+# --- Socle : seances 1 et 2 ---------------------------------------------
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.0
+pulp>=2.7,<4
+
+
